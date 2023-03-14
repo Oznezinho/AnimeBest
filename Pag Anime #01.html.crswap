@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {background-image: url("Fundo2.jpg");
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: fixed;
+        }
+       h1{font-family: a;
+     font-size: 300%;}
+     p{font-family: Arial, Helvetica, sans-serif;
+     font-size: 170%;
+     color: #e9e9e9e3;
+     margin: 30px;}
+     img{margin: 10px;}
+     div.relative1{position: relative;
+        left: 70px;}
+        div.titulo{position: relative;
+        left: 60px;}
+        ul.a {
+       list-style-type: square;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       font-size: 130%;
+       position: absolute;
+       top: 20px;
+       right: 30px;
+      color: rgba(255, 255, 255, 0.856);}
+       </style>
+       <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<title>AnimeBest</title>
+</head>
+<body>
+<div class="titulo">
+<h1 style="color:rgb(180, 0, 180);"> Melhores Waifus de Todos os Tempos</h1></div>
+<p>Para começar Waifu é uma gíria utilizada pelos fãs de anime para
+      referir às personagens que eles sentem atração e
+      gostariam de se casar com elas. A palavra é uma derivação do inglês 
+      wife, que significa "esposa". Seguindo essa lógica nós reunimos as 5
+     melhores waifus de todos os tempos, sugundo a comunidade.
+     Então contemple essa obra de arte, são elas:</p>
+     <div class="relative1">
+     <p> 1º lugar – Shouko Komi de “Komi-san wa, Komyushou desu”</p>
+     <img src="komi-san.jpg" alt="komi-san" width="850" height="620">
+     
+     <p> 2º lugar – Marin Kitagawa de “Sono Bisque Doll wa Koi o Suru”</p>
+     <img src="kitagawa.png" alt="Kitagawa-san" width="850" height="620">
+     
+     <p> 3º lugar – Miku Nakano de “Gotoubun no Hanayome”</p>
+     <img src="miku.jpg" alt="Miku-chan" width="850" height="620">
+     
+     <p> 4º lugar – Zero Two de “Darling in the Franxx”</p>
+     <img src="zero two.png" alt="ZeroTwo" width="850" height="620">
+     
+     <p> 5º lugar – Sakurajima Mai de “Seishun Buta Yarō wa Bunny”</p>
+     <img src="sakurajima.jpg" alt="Sakurajima-san" width="850" height="620">
+     </div>
+        <p>Segundo a comunidade esse top 5 seria o mais justo 
+         levando em conta que cada pessoa tem aquela waifu dos sonho, por isso
+         esse top 5 pode ficar desagradavel ou insatisfeito com os resultados, para alguns a melhor opsão seria
+         juntar a comunidade como um todo mostrando respeito para todas as Waidus. </p>
+ 
+         <ul class="a">
+         <li><a href="https://pt-br.facebook.com/"> Facebook</a></li>
+         <li><a href="https://www.instagram.com/"> Instagram</a></li>
+         <li><a href="https://discord.com/"> Discord</a></li>
+         </ul>
+   </html>
